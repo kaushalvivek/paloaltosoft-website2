@@ -330,6 +330,7 @@
         /* local validation */
         $('#contactForm').validate({
 
+
             /* submit via ajax */
             // submitHandler: function (form) {
 
